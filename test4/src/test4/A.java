@@ -1,5 +1,6 @@
 package test4;
 
-public class A {
-
+public class A 
+{
+	String name="Mohannad";
 }
